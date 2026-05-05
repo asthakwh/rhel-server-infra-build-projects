@@ -1,1 +1,10 @@
-
+cron
+CUPS
+DHCP
+DNS
+Email (SMTP, POP, IMAP)
+LDAP
+NFS
+NIS
+NTP
+SSH
